@@ -39,8 +39,6 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
         </a>
     </p>
-
-   
     <h3>Frontend Technologies</h3>
     <p align="left">
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -62,8 +60,6 @@
             <img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="tailwind" width="40" height="40"/>
         </a>
     </p>
-
-    
     <h3>Backend Technologies</h3>
     <p align="left">
         <a href="https://nodejs.org" target="_blank" rel="noreferrer">
@@ -85,12 +81,8 @@
             <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
         </a>
     </p>
-<br>
-<br>
 
-
-
-
+  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=supunpramod&show_icons=true&locale=en&layout=compact" alt="supunpramod" /></p>
 
