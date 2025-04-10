@@ -15,6 +15,7 @@
 <p align="left">
 <a href="https://dribbble.com/supunpramod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="supunpramod" height="30" width="40" /></a>
 <a href="https://www.behance.net/supunpramod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="supunpramod" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/supun-pramod-premathilaka-896a1b246/" target="blank"><img align="center" src="https://cdn-icons-png.freepik.com/512/3665/3665172.png" alt="supunpramod" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
